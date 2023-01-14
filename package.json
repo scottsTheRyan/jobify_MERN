@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.3",
+    "normalize.css": "^8.0.1",
+    "styled-components": "^5.3.6"
+  },
+  "name": "job_board",
+  "description": "#### Track Your Job Search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "start": "nodemon server",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
